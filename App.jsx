@@ -1,11 +1,13 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import MyNewService from './src/MyNewService'
+import MyNewServiceTwo from './src/MyNewServiceTwo'
 
 const App = () => {
   return (
     <View style={styles.container}>
-      <MyNewService/>
+      {/* <MyNewService/> */}
+      <MyNewServiceTwo/>
     </View>
   )
 }

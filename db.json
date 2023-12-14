@@ -1,0 +1,14 @@
+{
+  "currency": [
+    {
+      "id": 1,
+      "name": "bitcoin",
+      "price": "48000"
+    },
+    {
+      "id": 2,
+      "name": "solana",
+      "price": "1100"
+    }
+  ]
+}
